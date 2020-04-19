@@ -1,0 +1,7 @@
+{
+  "name": "SportDiary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
